@@ -1,5 +1,5 @@
 This is my project for my microsystems class of a binary clock with Bluetooth 4.0 communication. The PDF is in polish (can provide translation if anyone will ever want it).  
-Everything was made using Arduino IDE 1.8.10 and KiCad 5, all on Widows 10.  
+Everything was made using Arduino IDE 1.8.10 and KiCad 5, both on Widows 10.  
 Files in here:  
 --Dokumentacja.pdf-report on this project, in polish;  
 --sysmikro.ino-the arduino code, required libs: "LedControl" by Wyoda (http://wayoda.github.io/LedControl/); "RTCLib_by_NeiroN";  
